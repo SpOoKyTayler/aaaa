@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["DISCORD.GG/SUNNYLIFE"];
+const statusMessages = ["LifeLine On Top!"];
 
 
 let currentIndex = 0;
