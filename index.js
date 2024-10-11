@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["LifeLine On Top!"];
+const statusMessages = ["Hayat City!"];
 
 
 let currentIndex = 0;
