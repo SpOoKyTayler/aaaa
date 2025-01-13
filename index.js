@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["UtoriaCity!"];
 
 
 let currentIndex = 0;
