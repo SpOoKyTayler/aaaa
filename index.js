@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Revolution Design!"];
+const statusMessages = ["discord.gg/FtBAD7RGNv"];
 
 
 let currentIndex = 0;
