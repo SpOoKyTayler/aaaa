@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["UtoriaCity!"];
+const statusMessages = ["Revolution Design!"];
 
 
 let currentIndex = 0;
